@@ -1,8 +1,9 @@
-package main;
+package br.com.myindaia.main;
 
-import interfaces.AreaCalculavel;
-import interfaces.Circulo;
-import interfaces.Retangulo;
+import br.com.myindaia.model.AreaCalculavel;
+import br.com.myindaia.model.Circulo;
+import br.com.myindaia.model.Retangulo;
+
 
 class Teste {
  public static void main(String[] args) {

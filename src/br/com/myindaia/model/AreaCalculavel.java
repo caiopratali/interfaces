@@ -1,4 +1,4 @@
-package interfaces;
+package br.com.myindaia.model;
 
 public interface AreaCalculavel {
 

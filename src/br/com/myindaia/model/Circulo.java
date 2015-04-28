@@ -1,4 +1,4 @@
-package interfaces;
+package br.com.myindaia.model;
 
 public class Circulo implements AreaCalculavel {
 	private int raio;

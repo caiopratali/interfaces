@@ -1,4 +1,4 @@
-package interfaces;
+package br.com.myindaia.model;
 
 public class Retangulo implements AreaCalculavel {
 	private int altura;
